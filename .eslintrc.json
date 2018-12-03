@@ -1,4 +1,3 @@
-//config
 {
   "parser": "babel-eslint",
   "env": {
@@ -19,6 +18,3 @@
     "no-unused-expressions": ["error", { "allowTaggedTemplates": true }]
   }
 }
-//in settings.json
-//"editor.formatOnSave: true"
-//"prettier.eslintIntegration": true
